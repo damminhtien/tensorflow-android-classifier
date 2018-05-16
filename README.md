@@ -35,13 +35,18 @@ To work with tensorflow and android, you need:
 * Tranning script: retrain.py, optimize_for_inference.py, label_images.py, quantize_graph.py 
 <br>
 You should update the workspace and build bazeltool. It lost many time and can failed when run, you must run on computer > 16GB RAM. It sad :(
-<br> Solution:
-Install and run docker (all in one) every you need at here:
+<br>
+<b>Solution: </b>
+  
+Install and run docker (all in one) every you need at here:  
+
 * Window (i suggest Docker toolbox)
 * Linux (Docker CE)
+
 When you downloaded, run this command to install docker container:
-**docker run -it -p 8888:8888 -v $HOME/tf_files:/tf_files \
-tensorflow/tensorflow:nightly-devel**
+
+<b>docker run -it -p 8888:8888 -v $HOME/tf_files:/tf_files tensorflow/tensorflow:nightly-devel</b>
+
 It share folder tf_files at your main computer with docker container
 
 ## Demo
