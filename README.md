@@ -33,9 +33,9 @@ To work with tensorflow and android, you need:
 * Tensorflow:
 * Tensorflow broad (optional)
 * Tranning script: retrain.py, optimize_for_inference.py, label_images.py, quantize_graph.py 
-<br>
+
 You should update the workspace and build bazeltool. It lost many time and can failed when run, you must run on computer > 16GB RAM. It sad :(
-<br>
+
 <b>Solution: </b>
   
 Install and run docker (all in one) every you need at here:  
