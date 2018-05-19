@@ -127,6 +127,7 @@ Now use the quantize_graph script to apply these changes:
 The demo project is configured to search for a graph.pb, and a labels.txt files in the android/tfmobile/assets directory. Replace those two files with your versions. The following command accomplishes this task:
 
 > cp tf_files/rounded_graph.pb android/tfmobile/assets/graph.pb
+
 > cp tf_files/retrained_labels.txt android/tfmobile/assets/labels.txt 
 
 Structure demo i share in this repo, you can download and test it.
