@@ -108,7 +108,7 @@ The script also does a few other optimizations that help speed up the model, suc
 > python -m tensorflow.python.tools.optimize_for_inference \
 >  --input=tf_files/retrained_graph.pb \
 >  --output=tf_files/optimized_graph.pb \
->  --input_names="input" \
+>  --input_names="Mul" \
 >  --output_names="final_result"
 
 Quantize the network weights: Applying an almost identical process to your neural network weights has a similar effect. It gives a lot more repetition for the compression algorithm to take advantage of, while reducing the precision by a small amount (typically less than a 1% drop in precision).
