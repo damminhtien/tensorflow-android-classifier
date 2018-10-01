@@ -1,5 +1,6 @@
 # Tensorflow-android-classifier
-Descreption: There are many tutorial about tensorflow on android, but when i was a student at university, it hard to us learn and approach tensorflow, until i watch many video and read many article about it.
+Keyword: machine-learning, deep-learning, classification, android-implement, computer-vision, convolutional neural network, tranfer-learning.
+Description: There are many tutorial about tensorflow on android, but when i was a student at university, it hard to us learn and approach tensorflow, until i watch many video and read many article about it.
 
 ## Theory
 TensorFlow is an open source library for numerical computation, specializing in machine learning applications. Tensorflow's developed by Google and who likes opensoure. So i'd like to use TF in this project to classifier objects.
@@ -24,7 +25,9 @@ TensorFlow is an open source library for numerical computation, specializing in 
 ### Prepare data: 
 You need one dataset for tranning. If you want to classifier flower, flag, car,... you need 1 dataset of them. <br>
 Guide:
-* Fatkun downloader chrome extension: go google, type what you need, click tab images (there are many images), then click Fatkun logo, you NEED CLEAN the DATASET, delete all images not involve, download all of extractly you need. Copy all of images into 1 folder that's name is comom name of label of them.  
+* Fatkun downloader chrome extension.
+
+You NEED CLEAN the DATASET, delete all images not involve, download all of extractly you need. Copy all of images into 1 folder that's name is comom name of label of them.  
 
 ### Prepare environment:
 To work with tensorflow and android, you need: 
