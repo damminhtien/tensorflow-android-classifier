@@ -146,3 +146,5 @@ All of step you need at here: https://bit.ly/2ILVkfv
 See another repo and get issues if you get any question.
 
 Made by Damminhtien from HUST :heart:
+
+Happy training! :octocat:
