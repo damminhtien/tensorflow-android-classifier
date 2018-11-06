@@ -1,7 +1,7 @@
-# Tensorflow-android-classifier
-Keyword: machine-learning, deep-learning, classification, android-implement, computer-vision, convolutional neural network, tranfer-learning.
+# Tensorflow android classifier
+*Keyword*: machine-learning, deep-learning, classification, android-implement, computer-vision, convolutional neural network, transfer learning.
 
-Description: There are many tutorial about tensorflow on android, but when i was a student at university, it hard to us learn and approach tensorflow, until i watch many video and read many article about it.
+*Description*: There are many tutorial about tensorflow on android, but when i was a student at university, it hard to us learn and approach tensorflow, until i watch many video and read many article about it, specially, when you jump from software to research field.
 
 ## Theory
 TensorFlow is an open source library for numerical computation, specializing in machine learning applications. Tensorflow's developed by Google and who likes opensoure. So i'd like to use TF in this project to classifier objects.
@@ -59,11 +59,11 @@ Your structure folder:
 
 tf_files
 
----|-----script
+   |-----script
 
----|-----photos
+   |-----photos
 
----|-----tf_files
+   |-----tf_files
 
 tf_files at root of apps, script contains files .py that train and optimize the model, file photos contains folders of images input, tf_files contains result of next steps (files model, label, bottleneck,...)
 
