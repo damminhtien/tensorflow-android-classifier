@@ -1,7 +1,7 @@
 # Tensorflow android classifier
 
 <p align="center">
-  <img src="https://i.imgur.com/6lYtPUr.png" />
+  <img src="https://i.imgur.com/6lYtPUr.png" width='286px'/>
 </p>
 
 *Keyword*: machine-learning, deep-learning, classification, android-implement, computer-vision, convolutional neural network, transfer learning.
